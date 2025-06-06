@@ -1,0 +1,6 @@
+section:where(.destacado) {
+    color: green;
+}
+.destacado {
+    color: red;
+}
