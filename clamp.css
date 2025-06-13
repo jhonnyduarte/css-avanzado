@@ -1,0 +1,8 @@
+.caja {
+    /* min- preferido- max */
+    width: clamp(200px, 50%, 500px);
+    height: 500px;
+    background-color: blueviolet;
+    border:  1spx solid black;
+    margin: auto;
+}
